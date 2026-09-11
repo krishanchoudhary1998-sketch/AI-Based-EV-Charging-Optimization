@@ -1,0 +1,8 @@
+slprj/
+*.slxc
+*.asv
+*.autosave
+*.slx.autosave
+*.log
+tmp/
+
